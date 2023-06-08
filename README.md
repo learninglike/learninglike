@@ -7,7 +7,6 @@ my emotions are a roller coaster, and I would never have imagined the thousands 
 -..📫 How to reach me ... caracoliando@gmail.com
 - 💞️ I’m looking to collaborate on ... anything can help me to reach my Goal
 -
-
 learninglike/learninglike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
